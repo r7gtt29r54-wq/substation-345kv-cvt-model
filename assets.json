@@ -1,0 +1,30 @@
+[
+  {
+    "name": "cvt-square-stand",
+    "kind": "equipment",
+    "poses": [
+      {
+        "name": "assembled",
+        "frame": 1
+      },
+      {
+        "name": "service",
+        "frame": 80
+      }
+    ]
+  },
+  {
+    "name": "cvt-wide-flange-stand",
+    "kind": "equipment",
+    "poses": [
+      {
+        "name": "assembled",
+        "frame": 1
+      },
+      {
+        "name": "service",
+        "frame": 80
+      }
+    ]
+  }
+]
